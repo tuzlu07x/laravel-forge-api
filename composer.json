@@ -1,0 +1,20 @@
+{
+  "name": "fatihtuzlu/docker-engine",
+  "description": "Docker Engine API",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Fatihtuzlu\\ForgeAPI\\": "src/",
+      "Fatihtuzlu\\ForgeAPI\\Abstracts\\": "src/Abstracts"
+    }
+  },
+  "authors": [
+    {
+      "name": "Fatih Tuzlu",
+      "email": "fatihtuzlu07@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.8"
+  }
+}
