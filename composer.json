@@ -1,5 +1,5 @@
 {
-  "name": "fatihtuzlu/docker-engine",
+  "name": "ftuzlu/forge-api",
   "description": "Docker Engine API",
   "license": "MIT",
   "autoload": {
