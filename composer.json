@@ -1,6 +1,6 @@
 {
   "name": "ftuzlu/forge-api",
-  "description": "Docker Engine API",
+  "description": "Laravel Forge API",
   "license": "MIT",
   "autoload": {
     "psr-4": {
